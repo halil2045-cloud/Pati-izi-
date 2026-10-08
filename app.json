@@ -4,8 +4,19 @@
     "slug": "pat-izi",
     "version": "1.0.0",
     "orientation": "portrait",
+    "icon": "./icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
     "owner": "halilaktomrukoglus-team",
     "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
       "package": "com.patiizi.app"
     },
     "extra": {
