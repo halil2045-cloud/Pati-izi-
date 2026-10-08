@@ -8,6 +8,11 @@
     "owner": "halilaktomrukoglus-team",
     "android": {
       "package": "com.patiizi.app"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "19046713-6b5c-40d2-ad70-614001e9a226"
+      }
     }
   }
 }
