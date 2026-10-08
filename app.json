@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Pati İzi",
+    "slug": "pati-izi",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "owner": "halilaktomrukoglus-team",
+    "android": {
+      "package": "com.patiizi.app"
+    }
+  }
+}
